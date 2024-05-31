@@ -1,4 +1,4 @@
-# awsaccountusagereport
+# Creating a script to generate an AWS services report using Amazon Linux and Bash scripting 
 through shellscripting getting the aws account usage report
 1st launch the ec2 instance with amazon linux kernal, withoutkeypair,securitygroup,volume
 install git (using yum install git -y) check version git --version
